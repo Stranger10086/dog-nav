@@ -1,0 +1,11 @@
+name = "dog-nav"
+main = "cloudflare/src/index.js"
+compatibility_date = "2025-06-25"
+
+[assets]
+directory = "./cloudflare/public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dog-nav"
+database_id = "5e62a802-d710-460b-a0ee-efa97ff45270"
